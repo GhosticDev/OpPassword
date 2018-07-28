@@ -1,4 +1,4 @@
-# OpPassword
+//OpPassword
 
 package net.ghostic.op;
 
